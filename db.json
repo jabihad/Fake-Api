@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+        "customerMobileNumber": "+8801777777777",
+        "transactionDate": "2021-09-21T12:59:16.448Z",
+        "transactionDateStr": "2021-01-01",
+        "transactionAmount": 200,
+        "currency": "TTD"
+    },
+    {
+        "customerMobileNumber": "+8801888888888",
+        "transactionDate": "2021-09-21T12:59:16.448Z",
+        "transactionDateStr": "2021-01-01",
+        "transactionAmount": 200,
+        "currency": "TTD"
+    },
+    {
+        "customerMobileNumber": "+8801999999999",
+        "transactionDate": "2021-09-21T12:59:16.448Z",
+        "transactionDateStr": "2021-01-01",
+        "transactionAmount": 200,
+        "currency": "TTD"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
